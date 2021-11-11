@@ -7,3 +7,4 @@
 
 ## 附：如果有用，可以请作者喝杯咖啡
 <br> <center>![image](https://raw.githubusercontent.com/LuoFengXiaoXiao/Python/main/picture/1635322512.jpg)</center>
+<br> <center>![image](../picture/1635322512.jpg)</center>
