@@ -26,4 +26,4 @@
 
 ## 附：厚颜无耻支付宝
         如果对您有帮助，可以请作者喝杯咖啡
- <br>![picture](https://github.com/LuoFengXiaoXiao/Python/blob/main/picture/1635322512.jpg)
+ <br>![picture](https://raw.githubusercontent.com/LuoFengXiaoXiao/Python/main/picture/1635322512.jpg)
