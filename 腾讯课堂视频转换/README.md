@@ -16,7 +16,7 @@
    1. 打开腾讯课堂网页版
    2. 打开想要下载的课程，选择随便一个视频，点击播放
    3. 按下F12进行调试，此时刷新页面，操作步骤见图片
-        <br>![picture](https://github.com/LuoFengXiaoXiao/Python/blob/main/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82%E8%A7%86%E9%A2%91%E8%BD%AC%E6%8D%A2/Picture/tengxun.png)
+        <br>![picture](https://github.com/LuoFengXiaoXiao/Python/blob/main/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82%E8%A7%86%E9%A2%91%E8%BD%AC%E6%8D%A2/Picture/tengxun.png?raw=true)
     <br>复制图片中的黄色部分的文字，新建一个文件，命名为Index.json
 > Index.json的作用主要是把文件翻译成中文名字，具体代码可以查看.py文件，是所有源码
 
