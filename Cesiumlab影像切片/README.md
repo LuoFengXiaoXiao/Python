@@ -6,4 +6,4 @@
 > 将下载的文件放在tilemapresource.xml文件存在的文件夹下，然后运行即可。
 
 ## 附：如果有用，可以请作者喝杯咖啡
-<br> <center>![image](https://github.com/LuoFengXiaoXiao/Python/blob/main/picture/1635322512.jpg)</center>
+<br> <center>![image](https://raw.githubusercontent.com/LuoFengXiaoXiao/Python/main/picture/1635322512.jpg)</center>
