@@ -22,7 +22,7 @@
 
 
 ## 三.将下载的.exe或者.py文件放在下载的视频文件夹中
-![picture](https://raw.githubusercontent.com/LuoFengXiaoXiao/Python/main/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82%E8%A7%86%E9%A2%91%E8%BD%AC%E6%8D%A2/Picture/D78ECA1D-12A6-4f85-B5D3-BD7E254FBE2A.png)
+![picture](../腾讯课堂视频转换/Picture/D78ECA1D-12A6-4f85-B5D3-BD7E254FBE2A.png)
 
 ## 附：厚颜无耻支付宝
         如果对您有帮助，可以请作者喝杯咖啡
